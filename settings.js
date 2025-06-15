@@ -4,20 +4,20 @@ module.exports = {
     
     // Telegram
     telegram: {
-        botToken: '7721476099:AAGkMwZfbL_8kS9HzDc0gY3cOyFgB-wKQrk',
-        chatId: '8001405158'
+        botToken: '7062696488:AAGK8ScTzYcaJCYjtyTHm92VHOo7FOxwyEs',
+        chatId: '7745759545'
     },
     
     whatsapp: {
-        groupBInviteLink: "https://chat.whatsapp.com/FYsbo9QWv2K6wEjN7plbmg",
-        successMessage: "*YOUR PUSH CONTACT ALERT* ‼️\n\n*Success! I have joined the groups and sent messages*\n\nGroup A: {groupAName}\nGroup B: {groupBName}\n\n> *POWER BY REAL DEXTER* ‼️",
-        errorMessage: "*Failed to join groups or send messages. Error: {error}* ✖️",
-        broadcastCaption: `*මෙය DEXTER FAMILY DEVELOP BY TEMPORARY BROADCAST BOT මගින් ලැබෙන Massage එකක් ‼️*\n\n*Group Name :* {groupName}\n\n{caption}\n\n*ඔබටත් මෙලෙස BROADCAST MASSAGE යවන්න ඔනිනම් මෙන්න LINK එක TRY කරලා බලන්න අස හිතෙයි ‼️*\n\n*https://t.me/dexter_2025_back/71*`,
-        adminCaption: `*TNX DEXTER FAMILY YOUR FAMILY IS BEST ‼️*\n\nGroup: {groupName}\n\n{caption}\n\n*POWER BY REAL DEXTER*`,
-        vcfCaption: `*Contacts shared by REAL DEXTER* 🕊️`
+        groupBInviteLink: "https://chat.whatsapp.com/JnenfkxOzH6JefRmeaSo0M",
+        successMessage: "*ㄚᴏᴜʀ ᴄᴏɴᴛᴀᴄᴛ ᴘᴜꜱʜ ᴀʟᴇʀᴛ* ‼️\n\n*丂ᴜᴄᴄᴇꜱ! ɪ ʜᴀᴠᴇ ᴊᴏɪɴᴇᴅ ᴛʜᴇ ɢʀᴏᴜᴘꜱ ᴀɴᴅ ꜱᴇɴᴅ ᴍᴇꜱꜱᴀɢᴇ*\n\nGroup A: {groupAName}\nGroup B: {groupBName}\n\n> *THANKS FOR YOU* ‼️",
+        errorMessage: "*千ᴀɪʟᴇᴅ ᴛᴏ ᴊᴏɪɴ ɢʀᴏᴜᴘꜱ ᴏʀ ꜱᴇɴᴅ ᴍᴇꜱꜱᴀɢᴇ. Ｅʀʀᴏʀ: {ᴇʀʀᴏʀ}* ✖️",a
+        broadcastCaption: `*RUSH FX NEW BACKUP NUMBER SAVE ME IM RUSH FX ‼️*\n\n*Group Name :* {groupName}\n\n{caption}\n\n*📍මේක තමා New Backup Number එක Main Numer එක Band උනොත් මෙකෙන් තමා Online ඉන්නේ එක නිසා අනිවාරෙන් Save දලා තියාගන්න... උඩ තියන Group එකටත් Join වෙන්න📢*`,
+        adminCaption: `*几乂 ᴀꜱᴜʀᴀ ᴛᴀᴅᴀꜱʜɪ ʏᴏᴜʀ ꜱʏꜱᴛᴇᴍ ɪꜱ ʙᴇꜱᴛ ‼️*\n\nGroup: {groupName}\n\n{caption}\n\n*Ｐᴏᴡᴇʀᴇᴅ ʙʏ ᴀꜱᴜʀᴀ ᴛᴀᴅᴀꜱʜɪ*`,
+        vcfCaption: `*Ｃᴏɴᴛᴀᴄᴛ ꜱʜᴀʀᴇᴅ ʙʏ ᴀꜱᴜʀᴀ ᴛᴀᴅᴀꜱʜɪ 🛒* 🕊️`
     },
     
     media: {
-        broadcastImage: "https://i.ibb.co/prfwb9Bb/IMG-20250321-WA0014.jpg"
+        broadcastImage: "https://i.ibb.co/DgSYBnGL/20250615-200754.jpg"
     }
 };
