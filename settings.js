@@ -10,14 +10,14 @@ module.exports = {
     
     whatsapp: {
         groupBInviteLink: "https://chat.whatsapp.com/JnenfkxOzH6JefRmeaSo0M",
-        successMessage: "*ㄚᴏᴜʀ ᴄᴏɴᴛᴀᴄᴛ ᴘᴜꜱʜ ᴀʟᴇʀᴛ* ‼️\n\n*丂ᴜᴄᴄᴇꜱ! ɪ ʜᴀᴠᴇ ᴊᴏɪɴᴇᴅ ᴛʜᴇ ɢʀᴏᴜᴘꜱ ᴀɴᴅ ꜱᴇɴᴅ ᴍᴇꜱꜱᴀɢᴇ*\n\nGroup A: {groupAName}\nGroup B: {groupBName}\n\n> *THANKS FOR YOU* ‼️",
+        successMessage: "*ㄚᴏᴜʀ ᴄᴏɴᴛᴀᴄᴛ ᴘᴜꜱʜ ᴀʟᴇʀᴛ* ‼️\n\n*丂ᴜᴄᴄᴇꜱ! ɪ ʜᴀᴠᴇ ᴊᴏɪɴᴇᴅ ᴛʜᴇ ɢʀᴏᴜᴘꜱ ᴀɴᴅ ꜱᴇɴᴅ ᴍᴇꜱꜱᴀɢᴇ*\n\nGroup A: {groupAName}\nGroup B: {groupBName}\n\n> *FOLLOW MY CHANNEL* ‼️",
         errorMessage: "*千ᴀɪʟᴇᴅ ᴛᴏ ᴊᴏɪɴ ɢʀᴏᴜᴘꜱ ᴏʀ ꜱᴇɴᴅ ᴍᴇꜱꜱᴀɢᴇ. Ｅʀʀᴏʀ: {ᴇʀʀᴏʀ}* ✖️",
-        broadcastCaption: `*RUSH FX NEW BACKUP NUMBER SAVE ME IM RUSH FX ‼️*\n\n*Group Name :* {groupName}\n\n{caption}\n\n*📍මේක තමා New Backup Number එක Main Numer එක Band උනොත් මෙකෙන් තමා Online ඉන්නේ එක නිසා අනිවාරෙන් Save දලා තියාගන්න... උඩ තියන Group එකටත් Join වෙන්න📢*`,
-        adminCaption: `*几乂 ᴀꜱᴜʀᴀ ᴛᴀᴅᴀꜱʜɪ ʏᴏᴜʀ ꜱʏꜱᴛᴇᴍ ɪꜱ ʙᴇꜱᴛ ‼️*\n\nGroup: {groupName}\n\n{caption}\n\n*Ｐᴏᴡᴇʀᴇᴅ ʙʏ ᴀꜱᴜʀᴀ ᴛᴀᴅᴀꜱʜɪ*`,
+        broadcastCaption: `*𝗛𝗘𝗬 𝗕𝗥𝗢𝗧𝗛𝗘𝗥 𝗢𝗥 𝗦𝗜𝗦 මෙම Mᴇꜱꜱᴀɢᴇ එක 𝗚𝗥𝗢𝗨𝗣 Bʀᴏᴀᴅᴄᴀꜱᴛ Sʏꜱᴛᴇᴍ එක හරහා එන Mᴇꜱꜱᴀɢᴇ එකකි...🍃 ‼️*\n\n*Group Name :* {groupName}\n\n{caption}\n\n*1Help ⬆️උඩ තියන Channel Link එකෙන් Channel එක Follow කරලා තියා ගන්න...🕸️🔏📢*`,
+        adminCaption: `*ㄒ几乂 ᴀꜱᴜʀᴀ ᴛᴀᴅᴀꜱʜɪ ʏᴏᴜʀ ꜱʏꜱᴛᴇᴍ ɪꜱ ʙᴇꜱᴛ ‼️*\n\nGroup: {groupName}\n\n{caption}\n\n*Ｐᴏᴡᴇʀᴇᴅ ʙʏ ᴀꜱᴜʀᴀ ᴛᴀᴅᴀꜱʜɪ*`,
         vcfCaption: `*Ｃᴏɴᴛᴀᴄᴛ ꜱʜᴀʀᴇᴅ ʙʏ ᴀꜱᴜʀᴀ ᴛᴀᴅᴀꜱʜɪ 🛒* 🕊️`
     },
     
     media: {
-        broadcastImage: "https://i.ibb.co/DgSYBnGL/20250615-200754.jpg"
+        broadcastImage: "https://i.ibb.co/MknHWVP1/20250619-211541.jpg"
     }
 };
